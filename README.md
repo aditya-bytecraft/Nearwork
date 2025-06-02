@@ -36,7 +36,7 @@ Nearwork/
 └── README.md
 
 
-The React app will run at [http://localhost:3000](http://localhost:3000) and connect to the backend at [http://localhost:5000](http://localhost:5000).
+The React app will run at [http://localhost:3000](http://localhost:3000) [npm start] and connect to the backend at [http://localhost:5000](http://localhost:5000) [node index.js].
 
 ---
 
