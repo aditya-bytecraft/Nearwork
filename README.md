@@ -16,6 +16,9 @@ Inspired by platforms like LinkedIn, but focused on blue-collar and local servic
 ## ✨ Screenshots
 
 ![Screenshot 2025-06-02 142833](https://github.com/user-attachments/assets/97d11587-97cf-4d4e-bd26-cd1fb4934653)
+![Screenshot 2025-06-02 143309](https://github.com/user-attachments/assets/3c79521a-27c8-4b62-aa27-85f770e0c3b5)
+![Screenshot 2025-06-02 143327](https://github.com/user-attachments/assets/5463a48e-bfe6-4b75-94ad-0422460f282b)
+
 
 
 
