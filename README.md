@@ -13,6 +13,12 @@ Inspired by platforms like LinkedIn, but focused on blue-collar and local servic
 
 ---
 
+## ✨ Screenshots
+
+![Screenshot 2025-06-02 142833](https://github.com/user-attachments/assets/97d11587-97cf-4d4e-bd26-cd1fb4934653)
+
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Material-UI, Framer Motion, react-tsparticles
